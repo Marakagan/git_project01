@@ -7,33 +7,9 @@ public class GitDay2 {
 		
 		System.out.println("Hello World!");
 		System.out.println("Hello everybody!");
-		System.out.println("Hello Mustafa!");
+		System.out.println("Hello GitHub Users!");
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+	
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 }
